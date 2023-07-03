@@ -1,0 +1,8 @@
+total 24
+-rwxr-xr-x. 1 ec2-user ec2-user 140 Jun 25 09:47 example1.sh
+-rwxr-xr-x. 1 ec2-user ec2-user  95 Jun 25 10:52 example2.sh
+-rwxr-xr-x. 1 ec2-user ec2-user  85 Jun 25 13:03 check5.sh
+-rwxr-xr-x. 1 ec2-user ec2-user 166 Jun 26 04:51 big2
+-rwxrwxrwx. 1 ec2-user ec2-user 232 Jun 26 07:00 big3.sh
+-rwxrwxrwx. 1 ec2-user ec2-user  82 Jun 26 10:49 num.sh
+-rw-r--r--. 1 ec2-user ec2-user   0 Jun 26 10:52 log9
